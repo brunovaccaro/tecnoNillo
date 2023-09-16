@@ -1,0 +1,4 @@
+1) armo html  separando aside de main, o como sea que lo haya boceteado
+2) tengo el css con los parametros basicos listos, de reseteo de margenes, padding, fuente etc
+3) armar variables para los colores
+4) armo el array de productos en JS
